@@ -9,7 +9,7 @@
 
        local hGraph, hOptions, hStatus, hSession
 
-? "hello"
+? "hello 2a"
 
        hDLL = LoadLibrary( "tensorflow.dll" )
 
