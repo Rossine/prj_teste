@@ -9,6 +9,8 @@
 
        local hGraph, hOptions, hStatus, hSession
 
+? "hello"
+
        hDLL = LoadLibrary( "tensorflow.dll" )
 
        MsgInfo( TF_Version() )
